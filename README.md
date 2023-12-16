@@ -4,10 +4,10 @@
 
 ## 실행 결과
 ### 시간표 
-![](readme/main.png)
+![](readme/main2.png)
 
 ### 강의 목록 수정
 ![](readme/choice2.png)
 
 ### 시간표 테마 변경
-![](readme/thema_change.png)
+![](readme/thema_change2.png)
