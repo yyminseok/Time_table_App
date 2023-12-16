@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cursorColor">#FF5E94</color>
+    <color name="nomalColor">#EB81A5</color>
+
+    <color name="greentheme1">#5F7161</color>
+    <color name="greentheme2">#6D8B74</color>
+    <color name="greentheme3">#A2B38B</color>
+    <color name="greentheme4">#D0C9C0</color>
+    <color name="greentheme5">#576F72</color>
+    <color name="greentheme6">#7D9D9C</color>
+    <color name="greentheme7">#92BA92</color>
+    <color name="greentheme8">#EFEAD8</color>
+
+    <color name="bluetheme1">#1A374D</color>
+    <color name="bluetheme2">#406882</color>
+    <color name="bluetheme3">#6998AB</color>
+    <color name="bluetheme4">#476072</color>
+    <color name="bluetheme5">#B1D0E0</color>
+    <color name="bluetheme6">#548CA8</color>
+    <color name="bluetheme7">#304665</color>
+    <color name="bluetheme8">#053742</color>
+
+    <color name="pinktheme1">#F65A83</color>
+    <color name="pinktheme2">#FF87B2</color>
+    <color name="pinktheme3">#FF74B1</color>
+    <color name="pinktheme4">#FFA1CF</color>
+    <color name="pinktheme5">#FFCACA</color>
+    <color name="pinktheme6">#FF97C1</color>
+    <color name="pinktheme7">#FFACC7</color>
+    <color name="pinktheme8">#FF8FB1</color>
+
+    <color name="aquatheme1">#017D86</color>
+    <color name="aquatheme2">#09B3C5</color>
+    <color name="aquatheme3">#B19786</color>
+    <color name="aquatheme4">#406D7A</color>
+    <color name="aquatheme5">#B8B3AF</color>
+    <color name="aquatheme6">#565A52</color>
+    <color name="aquatheme7">#03585E</color>
+    <color name="aquatheme8">#C5B4A7</color>
+
+    <!--    <color name="theme1">#F65A83</color>-->
+    <!--    <color name="theme2">#FF87B2</color>-->
+    <!--    <color name="theme3">#FF74B1</color>-->
+    <!--    <color name="theme4">#FFA1CF</color>-->
+    <!--    <color name="theme5">#FFCACA</color>-->
+    <!--    <color name="theme6">#FF97C1</color>-->
+    <!--    <color name="theme7">#FFACC7</color>-->
+    <!--    <color name="theme8">#FF8FB1</color>-->
+
+
+
+
+
+</resources>
