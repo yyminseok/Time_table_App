@@ -7,7 +7,7 @@
 ![](readme/main.png)
 
 ### 강의 목록 수정
-![](readme/choice.png)
+![](readme/choice2.png)
 
 ### 시간표 테마 변경
 ![](readme/thema_change.png)
